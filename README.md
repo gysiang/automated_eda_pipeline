@@ -1,5 +1,3 @@
-# automated_eda_agent
-
 # Automated EDA & Baseline ML Pipeline (`eda_automation_pipeline`)
 
 A modular, production-ready Python framework designed to rapidly ingest raw datasets (CSV or SQLite `.db`), clean data anomalies, conduct rigorous Exploratory Data Analysis (EDA), build scikit-learn preprocessing pipelines, train baseline machine learning models, and automatically compile everything into a fully documented Jupyter Notebook (`.ipynb`).
